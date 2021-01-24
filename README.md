@@ -4,4 +4,4 @@
 JavaScript
 HTML
 CSS
-React
+React.js
